@@ -1,0 +1,30 @@
+{
+  "name": "xvii/satelles-securitas",
+  "description": "Paquete de seguridad",
+  "autoload": {
+    "psr-4": {
+      "Tabula17\\Satelles\\Securitas\\": "src/"
+    }
+  },
+  "authors": [
+    {"name": "Martín Emilio Panizzo"}
+  ],
+  "extra": {
+    "branch-alias": {
+      "dev-main": "1.0.x-dev"
+    }
+  },
+  "homepage": "https://github.com/Tabula17/satelles-securitas",
+  "minimum-stability": "dev",
+  "prefer-stable": true,
+  "require": {
+    "php": ">=8.4",
+    "ext-simplexml": "*",
+    "ext-libxml": "*",
+    "ext-dom": "*"
+  },
+  "require-dev": {
+  },
+  "suggest": {
+  }
+}
