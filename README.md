@@ -1,4 +1,7 @@
-# XVII: satelles-securitas
+# XVII: 🛰️ satelles-securitas
+![PHP Version](https://img.shields.io/badge/PHP-8.2%2B-blue)
+![License](https://img.shields.io/github/license/Tabula17/satelles-securitas)
+![Last commit](https://img.shields.io/github/last-commit/Tabula17/satelles-securitas)
 
 Paquete de seguridad para PHP.
 
@@ -12,7 +15,7 @@ composer require xvii/satelles-securitas
 
 ## Requisitos
 
-- PHP >= 8.4
+- PHP >= 8.1
 - Extensiones: simplexml, libxml, dom
 
 ## Autoload
@@ -30,4 +33,12 @@ Martín Emilio Panizzo
 
 ## Licencia
 
-[MIT](LICENSE)
+MIT License
+
+## Soporte
+
+Para reportar problemas o solicitar nuevas características:
+1. Revisa los issues existentes
+2. Abre un nuevo issue con los detalles del problema o sugerencia
+
+###### 🌌 Ad astra per codicem
